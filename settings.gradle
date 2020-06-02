@@ -1,0 +1,3 @@
+rootProject.name='staticPageInternet'
+include ':app'
+include ':StaticPage'
